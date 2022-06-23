@@ -1,10 +1,10 @@
 # Language
-Brainplosion language page: [esolangs.org](https://esolangs.org/wiki/Brainsplosion)
+Brainsplosion language page: [esolangs.org](https://esolangs.org/wiki/Brainsplosion)
 I implemented it in 5 minutes.
 
 Because of some symbols cannot be used it have different syntax:
 
-Braisnplosion | Brainsplosion in batch
+Brainsplosion | Brainsplosion in batch
 | - | -
 | + | i
 | - | d
